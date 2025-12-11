@@ -1,0 +1,2 @@
+# analyzing_the_thyroid_cancer_risk_data_database
+This is my code for analyzing database the_thyroid_cancer_risk_data
